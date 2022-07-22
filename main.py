@@ -49,6 +49,6 @@ if inp =='N' or inp=='n':
 else:
     win=comp.com_play(pla1,lis)
     if win !="Draw":
-        print("\t\t",win,"Won the game !!!!!")
+        print("\t\t",win,"Won the game !!!!!1")
     else:
-        print("\t\tMatch is Draw !!!!!")
+        print("\t\tMatch is Draw !!!!!1")
