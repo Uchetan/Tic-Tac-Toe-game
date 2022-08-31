@@ -25,7 +25,7 @@ if inp =='N' or inp=='n':
                 try:
                     a=int(input(pla2+" your turn : "))
                     if lis[a-1]=="X" or lis[a-1]=="#":
-                        print('Already Entered , enter any other number : ')
+                        print('Already Entered !!!, enter any other number : ')
                     else:
                         lis[a-1]='#'
                         break
