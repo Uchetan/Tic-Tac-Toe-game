@@ -3,7 +3,6 @@ def winner(a,lis,pla1,pla2):
         return pla1
     else:
         return pla2
-
 def dec(lis,pla1,pla2):
     if lis[0]==lis[1]==lis[2]=='X'or lis[0]==lis[1]==lis[2]=='#':
         a=winner(0,lis,pla1,pla2)
